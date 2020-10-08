@@ -1,5 +1,1 @@
 
-    Podmień drugie imię z wewnętrznej listy dogs na taką listę ['Reksio1', 'Reksio2'] i wypisz całą listę list animals.
-    Wypisz pierwsze imię z dodanej listy.
-    Następnie je usuń metodą która zwróci usuwany element.
-    Dodaj je znowu za pomocą metody append().
